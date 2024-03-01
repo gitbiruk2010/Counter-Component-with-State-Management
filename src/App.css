@@ -1,0 +1,44 @@
+/* centers text within the main app container */
+.App {
+  text-align: center;
+}
+
+/* styles for the app header */
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* styles for h3 headings, setting the text color */
+h3 {
+  color: white;
+}
+
+/* styles for h2 headings, setting the text color to tan */
+h2 {
+  color: tan;
+}
+
+/* generic button styling */
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: #008d55;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.2s;
+  color: white;
+}
+
+/* changes the button background color on hover to provide visual feedback */
+button:hover {
+  background-color: darkslategray;
+}
