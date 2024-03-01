@@ -23,7 +23,7 @@ Before you begin, ensure you have the latest version of [Node.js](https://nodejs
 To set up the project locally, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone 
+   git clone https://github.com/gitbiruk2010/Counter-Component-with-State-Management
    cd react-counter-app
 
 ## Starting the Application
